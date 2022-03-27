@@ -1,0 +1,14 @@
+
+#snap{
+    color: aqua;
+    background-color:black;
+    font-size:25px;
+    margin-left:500px;
+}
+body{
+    text-align:center;
+}
+#mark{
+    color:aqua;
+    font-size:25px;
+}
